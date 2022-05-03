@@ -1,4 +1,5 @@
 const uuid = require('uuid').v4;
+
 class MoviesDataAccess {
   constructor({ MoviesModel }) {
     this.MoviesModel = MoviesModel;
