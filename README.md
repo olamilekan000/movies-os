@@ -41,7 +41,7 @@ npm run dev
 
 or  with Docker
 
-MONGODB_URL value changes to: ``` MONGODB_URL=mongodb://localhost:27017/movies ```
+MONGODB_URL value changes to: ``` MONGODB_URL=mongodb://database:27017/movies ```
 
 ```sh
 docker-compose -f docker-compose.dev.yml up --build
