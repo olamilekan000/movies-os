@@ -83,10 +83,6 @@ To signin as a user - Basic/Premium
     "username": "basic-thomas",
     "password": "sR-_pcoow-27-6PAwCD8"
   }
-
-  headers: {
-    Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9
-  }  
 ```
 - This should return a token
 ```sh 
